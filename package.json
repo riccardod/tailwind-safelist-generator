@@ -12,10 +12,10 @@
   "author": "",
   "license": "ISC",
   "peerDependencies": {
-    "tailwindcss": "^2.2.7"
+    "tailwindcss": "^3.0.8"
   },
   "devDependencies": {
     "jest": "^27.0.6",
-    "tailwindcss": "^3.0.8"
+    
   }
 }
